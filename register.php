@@ -171,9 +171,9 @@ if(isset($_POST['btn-signup'])) {
 		
 		<div class="form-group">
 			<h2 class="form-signin-heading">User Category?</h2><hr />
-			  <input type="radio" class="form-control" name="usercategory" value="school"><h2 class="form-signin-category">School</h2>
-			  <input type="radio" class="form-control" name="usercategory" value="college"><h2 class="form-signin-category">College</h2>
-			  <input type="radio" class="form-control" name="usercategory" value="professional"><h2 class="form-signin-category">Professional</h2>
+			  <input type="radio" class="form-control" name="usercategory" value="School"><h2 class="form-signin-category">School</h2>
+			  <input type="radio" class="form-control" name="usercategory" value="College"><h2 class="form-signin-category">College</h2>
+			  <input type="radio" class="form-control" name="usercategory" value="Professional"><h2 class="form-signin-category">Professional</h2>
 		</div>
 		<hr>
 		<div class="form-group">
